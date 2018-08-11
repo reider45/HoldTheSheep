@@ -1,0 +1,12 @@
+Game:
+  Timer:
+    Lobby: 60
+    Game: 300
+  Players: 3
+Arena:
+  Sheep: world,-45,125,40
+  Lobby: world,-45,125,40
+  Spawns:
+    - world,-55,125,32
+    - world,55,125,32
+    - world,-45,125,80
